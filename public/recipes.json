@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "recipe_image": "https://i.ibb.co.com/HB2yWVc/brooke-lark-j-UPOXXRNdc-A-unsplash.jpg",
+      "recipe_id": "R001",
+      "recipe_name": "Grilled Chicken",
+      "short_description": "A simple and flavorful grilled chicken recipe.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "50 g garlic",
+        "20 g ginger",
+        "10 g black pepper"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/fScgsYb/cala-w6ft-Fb-PCs9-I-unsplash.jpg",
+      "recipe_id": "R002",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A classic Italian pasta dish with rich meat sauce.",
+      "ingredients": [
+        "200 g spaghetti",
+        "400 g ground beef",
+        "200 g tomato sauce",
+        "100 g onions",
+        "50 g Parmesan cheese"
+      ],
+      "preparing_time": "45 min",
+      "calories": "480 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/b55nYKp/jimmy-dean-Ianq-I4-W4fco-unsplash.jpg",
+      "recipe_id": "R003",
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "A healthy stir-fry with fresh vegetables.",
+      "ingredients": [
+        "200 g broccoli",
+        "100 g bell peppers",
+        "100 g carrots",
+        "50 g onions",
+        "20 ml soy sauce"
+      ],
+      "preparing_time": "20 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/hVN5B3K/mariana-medvedeva-fk6-Iiyp-MWss-unsplash.jpg",
+      "recipe_id": "R004",
+      "recipe_name": "Tuna Salad",
+      "short_description": "A refreshing salad with tuna and greens.",
+      "ingredients": [
+        "150 g tuna",
+        "100 g lettuce",
+        "50 g cucumbers",
+        "30 g olives",
+        "20 ml olive oil"
+      ],
+      "preparing_time": "15 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/5nJddTX/mariana-medvedeva-i-Nw-CO9yc-Blc-unsplash.jpg",
+      "recipe_id": "R005",
+      "recipe_name": "Beef Tacos",
+      "short_description": "Mexican-style beef tacos with a spicy kick.",
+      "ingredients": [
+        "200 g ground beef",
+        "100 g taco shells",
+        "50 g lettuce",
+        "30 g salsa",
+        "20 g cheese"
+      ],
+      "preparing_time": "25 min",
+      "calories": "390 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/BzGgvWN/mariana-medvedeva-usf-IE5-Yc7-PY-unsplash.jpg",
+      "recipe_id": "R006",
+      "recipe_name": "Chocolate Cake",
+      "short_description": "A rich and moist chocolate cake.",
+      "ingredients": [
+        "200 g flour",
+        "100 g cocoa powder",
+        "150 g sugar",
+        "3 eggs",
+        "100 ml milk"
+      ],
+      "preparing_time": "60 min",
+      "calories": "500 calories"
+    }
+  ]
+}
